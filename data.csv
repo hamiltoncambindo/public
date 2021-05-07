@@ -1,4 +1,4 @@
-group,Highest (°F),Lowest (°F)
+group,Highest (Â°F),Lowest (Â°F)
 Sat,82,67
 Sun,81,59
 Mon,81,50
@@ -6,4 +6,4 @@ Tue,70,47
 Wed,77,51
 Thu,78,60
 Fri,79,66
-Sat,80,66
+Sat2,80,66
